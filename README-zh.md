@@ -54,6 +54,9 @@ npm run dev
 ## 发布
 
 ```bash
+# 默认构建
+npm run build
+
 # 构建测试环境
 npm run build:stage
 
