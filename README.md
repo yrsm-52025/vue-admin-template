@@ -30,6 +30,9 @@ This will automatically open http://localhost:9528
 ## Build
 
 ```bash
+# default build
+npm run build
+
 # build for test environment
 npm run build:stage
 
