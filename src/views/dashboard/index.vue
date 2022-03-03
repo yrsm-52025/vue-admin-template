@@ -1,6 +1,9 @@
 <template>
   <div class="dashboard-container">
-    <div class="dashboard-text">name: {{ name }} something changed.</div>
+    <div class="dashboard-text">
+      name: {{ name }} something changed.
+    </div>
+    <div>some modify test</div>
   </div>
 </template>
 
